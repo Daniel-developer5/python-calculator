@@ -3,6 +3,7 @@ import math
 
 manual = """\033[94m\nYou can use:\n
     x^a
+    x * 10%, to find a percent from x
     sqrt(x)
     sin(x)
     cos(x)
